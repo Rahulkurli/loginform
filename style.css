@@ -1,0 +1,69 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#container{
+    width: 50%;
+    margin-left: 28%;
+}
+#icon{
+    width: 13em;
+    height: 12em;
+    margin: 5% 0% 0% 25%;
+}
+#lorem{
+    margin-left: 2%;
+}
+input{
+    width: 45%;
+    margin: 4% 0% 0% 17%;
+    border: 1px solid black;
+    border-radius: 25px;
+    padding: 8px;
+}
+button{
+    background-color:#d309b1;
+    width: 45%;
+    margin: 5% 0% 0% 17%;
+    border:none;
+    color: white;
+    border-radius: 25px;
+    padding: 8px;
+}
+#forgot{
+    color: #d309b1;
+    text-align: end;
+    margin-right: 39%;
+    margin-top: 4%;
+}
+#other{
+    margin-left: 32%;
+}
+#first{
+    border-bottom: 3px solid #d309b1;
+    text-decoration: none;
+    color: black;
+}
+#second{
+    text-decoration: none;
+    color: black;
+}
+#span{
+    margin-left: 125px;
+}
+#img{
+    width: 40px;
+    height: 40px;
+    border: 1px solid rgb(238, 234, 234);
+    border-radius: 50%;
+    padding: 7px;
+    margin-left: 30px ;
+}
+#create-account{
+    text-decoration: none;
+    color: #d309b1;
+}
+#account{
+    margin: 3% 0% 0% 17%;
+}
